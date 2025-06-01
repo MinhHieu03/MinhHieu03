@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MinhHieu03
-- 👀 I’m interested in singing,playing the guitar
-- 🌱 I’m currently learning English,French
-- 💞️ I’m looking to collaborate on Facebook.Instagram
-- 📫 How to reach me my gmail
+🎓 I’m a recent graduate in Information Technology from Hanoi University of Mining and Geology (HUMG), and I’ve also completed a Software Engineering diploma at Aptech.
 
-<!---
-MinhHieu03/MinhHieu03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I have a strong interest in Artificial Intelligence (AI), Automation, and Software Testing. During my internship as an Automation Testing Intern, I gained hands-on experience in UI testing, test case design, and working with tools for automated testing.
+
+🚀 My goal is to become a tech engineer who applies AI and automation to optimize systems, enhance product quality, and improve workflow efficiency. I'm always eager to learn, stay updated with new technologies, and take on challenges that create real-world value.
+
+🔧 Key Skills: Automation Testing, Python, Git, Selenium (if applicable), problem-solving, teamwork, fast learning.
+
+👉 “Always learning – Always improving.”
