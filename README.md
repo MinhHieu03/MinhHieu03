@@ -4,11 +4,6 @@
 
 🚀 My career goal is to become a tech engineer specializing in AI, LLM-powered solutions, and automation, applying these technologies to optimize systems, improve product quality, and streamline workflows. I am highly motivated to continuously learn, stay up to date with emerging technologies, and take on challenges that deliver practical, real-world impact.
 
-🔧 Key Skills:
-AI & LLMs: LLM-powered agents, prompt engineering, workflow automation
-Software Development: Python, React, Node.js
-Automation Testing: UI testing, test case design, Selenium
-Tools & Version Control: Git
-Soft Skills: problem-solving, teamwork, fast learner
+🔧 Key Skills: Technical: AI & LLMs, Python, React, Node.js, Automation Testing (UI, Selenium), Git | Soft: Problem-solving, teamwork, fast learner
 
 👉 “Always learning – Always improving.”
