@@ -1,4 +1,4 @@
-🎓 I’m a recent graduate in Information Technology from Hanoi University of Mining and Geology (HUMG), and I’ve also completed a Software Engineering diploma at Aptech.
+🎓 I graduated with a major in Applied Computer Science in the Information Technology field from Hanoi University of Mining and Geology (HUMG), and I also completed a Software Engineering Diploma at Aptech.
 
 💡 I have a strong interest in Artificial Intelligence (AI), Automation, and Software Testing. During my internship as an Automation Testing Intern, I gained hands-on experience in UI testing, test case design, and working with tools for automated testing.
 
