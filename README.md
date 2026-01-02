@@ -2,8 +2,13 @@
 
 💡 I have experience in software development, Artificial Intelligence (AI), automation, and software testing, with a strong focus on Large Language Models (LLMs). I am currently working on LLM-powered AI Agents, designing intelligent workflows that leverage prompt engineering, tool calling, and automation to solve real-world problems. Additionally, I have hands-on experience in automation testing, including UI testing, test case design, and using automated testing tools to enhance system quality and reliability.
 
-🚀 My goal is to become a tech engineer who applies AI and automation to optimize systems, enhance product quality, and improve workflow efficiency. I'm always eager to learn, stay updated with new technologies, and take on challenges that create real-world value.
+🚀 My career goal is to become a tech engineer specializing in AI, LLM-powered solutions, and automation, applying these technologies to optimize systems, improve product quality, and streamline workflows. I am highly motivated to continuously learn, stay up to date with emerging technologies, and take on challenges that deliver practical, real-world impact.
 
-🔧 Key Skills: Automation Testing, Python, Git, Selenium (if applicable), problem-solving, teamwork, fast learning.
+🔧 Key Skills:
+AI & LLMs: LLM-powered agents, prompt engineering, workflow automation
+Software Development: Python, React, Node.js
+Automation Testing: UI testing, test case design, Selenium
+Tools & Version Control: Git
+Soft Skills: problem-solving, teamwork, fast learner
 
 👉 “Always learning – Always improving.”
